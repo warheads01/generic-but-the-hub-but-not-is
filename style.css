@@ -4,7 +4,12 @@ h1 {
   font-family:cursive;
   font-size: larger;
 }
-
+h2 {
+  text-align: center;
+  color: white;
+  font-family:cursive;
+  font-size: larger;
+}
 body {
 background-color: rgb(138, 12, 12);
 }
