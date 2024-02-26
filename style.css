@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background: linear-gradient(-45deg , #1503b3, #240975, , #110072, #5d0192);
   background-size: 600% 500%;
   animation: gradient 15s ease infinite;
   height: 100vh;
@@ -16,4 +16,9 @@ body {
   100% {
     background-position: 0% 50%;
   }
+}
+
+.main-page {
+text-align: center;
+
 }
