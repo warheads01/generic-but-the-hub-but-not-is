@@ -8,36 +8,7 @@ Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/license
 
 /*General*/
 
-.css-selector {
-    background: linear-gradient(357deg, #2a0667, #7f01ae, #2900a8, #8e4ec3, #554c9d, #841290, #5d2363, #0a0058, #07033e);
-    background-size: 1800% 1800%;
 
-    -webkit-animation: gradient-background 20s ease infinite;
-    -moz-animation: gradient-background 20s ease infinite;
-    -o-animation: gradient-background 20s ease infinite;
-    animation: gradient-background 20s ease infinite;
-}
-
-@-webkit-keyframes gradient-background {
-    0%{background-position:0% 87%}
-    50%{background-position:100% 14%}
-    100%{background-position:0% 87%}
-}
-@-moz-keyframes gradient-background {
-    0%{background-position:0% 87%}
-    50%{background-position:100% 14%}
-    100%{background-position:0% 87%}
-}
-@-o-keyframes gradient-background {
-    0%{background-position:0% 87%}
-    50%{background-position:100% 14%}
-    100%{background-position:0% 87%}
-}
-@keyframes gradient-background {
-    0%{background-position:0% 87%}
-    50%{background-position:100% 14%}
-    100%{background-position:0% 87%}
-}
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Open sans", Helvetica, Arial;
 }
