@@ -75,3 +75,9 @@ a:visited {
   display: inline;
   color:beige;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
