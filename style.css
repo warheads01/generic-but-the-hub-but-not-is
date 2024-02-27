@@ -21,7 +21,7 @@ img {
 }
 .topTitle {
   text-align: left;
-  color: white;
+  color: bisque;
   font-family:cursive;
   font-size: 70px;
   display:inline;
@@ -68,4 +68,10 @@ a:link {
 a:visited {
   color: white;
   text-decoration: none;
+}
+.linkSpace {
+  float: inherit;
+  font-size: 50px;
+  display: inline;
+  color:beige;
 }
