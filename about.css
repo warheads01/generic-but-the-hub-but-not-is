@@ -15,7 +15,7 @@ h1 {
     font-size: 60px;
     display:inline;
     float: inherit;
-    background-color: rgba(243, 253, 253, 0.22);
+    
   }
   .topTools {
     text-align: left;
@@ -24,7 +24,6 @@ h1 {
     font-size: 50px;
     display:inline;
     float: inherit;
-    background-color: rgba(243, 253, 253, 0.22);
   
   
   }
@@ -35,7 +34,6 @@ h1 {
     font-size: 50px;
     display:inline;
     float: inherit;
-    background-color: rgba(243, 253, 253, 0.22);
   
   
   }
@@ -46,7 +44,6 @@ h1 {
     font-size: 50px;
     display:inline;
     float: inherit;
-    background-color: rgba(243, 253, 253, 0.22);
   
   
   }
