@@ -1,17 +1,17 @@
 h1 {
   text-align: center;
-  color: white;
+  color: #e28b24;
   font-family:cursive;
   font-size: xx-large;
 }
 h2 {
   text-align: center;
-  color: white;
+  color: #e28b24;
   font-family:cursive;
   font-size: larger;
 }
 body {
-  background-color: rgb(194, 115, 115 );
+  background-color: rgb(126, 199, 147);
 }
 img {
   border-radius: 10px;
@@ -21,7 +21,7 @@ img {
 }
 .topTitle {
   text-align: left;
-  color: bisque;
+  color: #e28b25;
   font-family:cursive;
   font-size: 60px;
   display:inline;
@@ -29,7 +29,7 @@ img {
 }
 .topTools {
   text-align: left;
-  color: white;
+  color: #e28b24;
   font-family:cursive;
   font-size: 50px;
   display:inline;
@@ -39,7 +39,7 @@ img {
 }
 .topg-mes {
   text-align: left;
-  color: white;
+  color: #e28b24;
   font-family:cursive;
   font-size: 50px;
   display:inline;
@@ -49,7 +49,7 @@ img {
 }
 .topAbout {
   text-align: left;
-  color: white;
+  color: #e28b24;
   font-family:cursive;
   font-size: 50px;
   display:inline;
@@ -58,11 +58,11 @@ img {
 
 }
 a:link {
-  color: white;
+  color: #e28b24;
   text-decoration: none;
 }
 a:visited {
-  color: white;
+  color: #e28b24;
   text-decoration: none;
 }
 .linkSpace {

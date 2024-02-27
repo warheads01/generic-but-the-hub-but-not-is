@@ -1,13 +1,15 @@
-   h1{
-   font-family:cursive;
-    font-size: xx-large;
-  }
+h1 {
+  text-align: left;
+  color: #e28b24;
+  font-family:cursive;
+  font-size: xx-large;
+}
   body {
-    background-color: rgb(194, 115, 115);
+    background-color: rgb(126, 199, 147);
   }
   .topTitle {
     text-align: left;
-    color: bisque;
+    color: #e28b25;
     font-family:cursive;
     font-size: 60px;
     display:inline;
@@ -15,7 +17,7 @@
   }
   .topTools {
     text-align: left;
-    color: white;
+    color: #e28b24;
     font-family:cursive;
     font-size: 50px;
     display:inline;
@@ -25,7 +27,7 @@
   }
   .topg-mes {
     text-align: left;
-    color: white;
+    color: #e28b24;
     font-family:cursive;
     font-size: 50px;
     display:inline;
@@ -35,7 +37,7 @@
   }
   .topAbout {
     text-align: left;
-    color: white;
+    color: #e28b24;
     font-family:cursive;
     font-size: 50px;
     display:inline;
@@ -44,11 +46,11 @@
   
   }
   a:link {
-    color: white;
+    color: #e28b24;
     text-decoration: none;
   }
   a:visited {
-    color: white;
+    color: #e28b24;
     text-decoration: none;
   }
   .linkSpace {
