@@ -1,0 +1,54 @@
+h1 {
+    text-align: left;
+    color: white;
+    font-family:cursive;
+    font-size: xx-large;
+  }
+  body {
+    background-color: rgb(138, 12, 12);
+  }
+  .topTitle {
+    text-align: left;
+    color: white;
+    font-family:cursive;
+    font-size: xxx-large;
+    display:inline;
+    float: inherit;
+    background-color: rgba(243, 253, 253, 0.22);
+  }
+  .topTools {
+    text-align: left;
+    color: white;
+    font-family:cursive;
+    font-size: xx-large;
+    display:inline;
+    float: inherit;
+    background-color: rgba(243, 253, 253, 0.22);
+  
+  
+  }
+  .topg-mes {
+    text-align: left;
+    color: white;
+    font-family:cursive;
+    font-size: xx-large;
+    display:inline;
+    float: inherit;
+    background-color: rgba(243, 253, 253, 0.22);
+  
+  
+  }
+  .topAbout {
+    text-align: left;
+    color: white;
+    font-family:cursive;
+    font-size: xx-large;
+    display:inline;
+    float: inherit;
+    background-color: rgba(243, 253, 253, 0.22);
+  
+  
+  }
+  a:link {
+    color: white;
+  }
