@@ -95,18 +95,3 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
-
-
-li a:hover {
-  background-color: #111;
-}
-
-.active {
-  background-color: #04AA6D;
-}
-
-ul {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
