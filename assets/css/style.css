@@ -8,7 +8,6 @@ Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/license
 
 /*General*/
 
-
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Open sans", Helvetica, Arial;
 }
@@ -60,7 +59,7 @@ element.style {
 	background: #187BBD;
 }
 .navbar-nav>li>a {
-	font-size: 30px;
+	font-size: 40px;
 }
 .navbar-fixed-top, .navbar-fixed-bottom { 
 z-index: 9999;
