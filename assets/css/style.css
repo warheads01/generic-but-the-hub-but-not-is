@@ -51,7 +51,7 @@ element.style {
 .navbar-nav .dropdown-menu {
 	left: -5px;
 	font-size: 13px;
-	background-color: rgba(21, 76, 119, 0.95);
+	background-color: rgba(50, 21, 119, 0.95);
 }
 .navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-nav > .open ul > a {
 	color: rgba(255, 255, 255, 1);
@@ -601,5 +601,10 @@ nav#filter a.current {
 	width: 20px;
 	height: 20px;
 }
+}
+
+li {
+   font-size: 30px;
+
 }
 
