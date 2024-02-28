@@ -59,10 +59,10 @@ element.style {
 	background: #187BBD;
 }
 .navbar-nav>li>a {
-	font-size: 40px;
+	font-size: 35px;
 }
 .navbar-fixed-top, .navbar-fixed-bottom { 
-z-index: 9999;
+z-index: 13000;
 }
 .btn-action, .btn-primary {
 color: #FFEFD7;
